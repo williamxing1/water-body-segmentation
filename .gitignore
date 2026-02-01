@@ -8,3 +8,4 @@ index.json
 modal_dset_s2_model.py
 modal_naip_model.py
 modal_waterbody_model.py
+.DS_STORE

@@ -205,7 +205,7 @@ plt.plot(train_losses, label="Train Loss")
 plt.xlabel("Epoch")
 plt.ylabel("Loss")
 plt.legend()
-plt.savefig("train_test_curve_naip.png", dpi=300, bbox_inches="tight")
+plt.savefig("train_curve_naip.png", dpi=300, bbox_inches="tight")
 plt.show()
 
 model = UNet(in_channels=4).to(device).to(memory_format=torch.channels_last)
