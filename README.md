@@ -36,7 +36,7 @@ This section highlights how far computer vision alone can go when geospatial con
 
 ### Running the Model
 
-To train the waterbody segmentation model, run the following script:
+Note that all files are in the `waterbody_files` folder. To train the waterbody segmentation model, run the following script:
 
 - **Training script**: `waterbody_model.py`
 
@@ -77,7 +77,7 @@ This section emphasizes how multispectral data enables robust water discriminati
 
 ### Running the Model
 
-To train the Sentinel-2 surface water segmentation model, run the following file:
+Note that all files are in the `dset_s2_files` folder. To train the Sentinel-2 surface water segmentation model, run the following file:
 
 - **Training script**: `dset_s2_model.py`
 
@@ -134,7 +134,7 @@ This section demonstrates how high-resolution aerial imagery enables accurate de
 
 ### Running the Model
 
-To train the aerial imagery surface water segmentation model, run the following script:
+Note that all files are in the `naip_files` folder. To train the aerial imagery surface water segmentation model, run the following script:
 
 - **Training script**: `naip_model.py`
 

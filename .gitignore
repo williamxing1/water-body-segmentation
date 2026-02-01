@@ -5,7 +5,7 @@ naip/
 waterbody-dataset/
 
 index.json
-modal_dset_s2_model.py
-modal_naip_model.py
-modal_waterbody_model.py
+dset_s2_files/modal_dset_s2_model.py
+naip_files/modal_naip_model.py
+waterbody_files/modal_waterbody_model.py
 .DS_STORE
