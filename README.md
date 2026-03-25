@@ -151,3 +151,6 @@ After training, the script also runs inference on validation samples and saves q
 These saved figures typically include the original aerial image, the ground-truth mask, and the model’s predicted water mask side by side, providing an intuitive visual measure of segmentation performance.
 
 This completes the aerial imagery surface water mapping workflow, from dataset acquisition through training and evaluation.
+
+## Acknowledgements
+Huge thanks to Qing "Henry" Yang at Stanford for mentoring me.
